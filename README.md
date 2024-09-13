@@ -2,8 +2,8 @@
 
 ## experience
 
-# computer hardware and server equipment
-# i have built multiple computers and servers
+- computer hardware and server equipment
+- networking
 
 ## technology and tools
 * java
