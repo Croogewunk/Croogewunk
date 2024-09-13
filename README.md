@@ -1,5 +1,5 @@
 # Stone Krupp 
-i like computer hardware and technology
+I like computer hardware and technology
 
 ## Experience
 
