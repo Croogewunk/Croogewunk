@@ -1,19 +1,19 @@
 # Stone Krupp i like computer hardware coding and technology
 
-## experience
+## Experience
 
 - computer hardware and server equipment
 - networking
 
-## technology and tools
+## Technology and tools
 * java
 * c#
 * blender
 * visual studio
+## About
+- I’m currently learning: java 
 
-- 🌱 I’m currently learning: java 
+- Ask me about: tech
 
-- 💬 Ask me about: tech
-
-- 📫 How to reach me: gci.232021@students.geneseeisd.org
+- How to reach me: gci.232021@students.geneseeisd.org
 
