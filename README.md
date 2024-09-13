@@ -1,4 +1,4 @@
-# Stone Krupp i like computer hardware coding and technology
+# Stone Krupp i like computer hardware and technology
 
 ## Experience
 
